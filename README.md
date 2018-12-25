@@ -1,9 +1,9 @@
 # Atlas Fishing Script.
-# CURRENTLY IN DEVELOPMENT! 12/25/2018
-# CURRENTLY IN DEVELOPMENT! 12/25/2018
 
 # MOTD
-[![Wokring](https://img.youtube.com/vi/bXqh7yuM1sk/0.jpg)](https://www.youtube.com/watch?v=)
+## CURRENTLY IN DEVELOPMENT! 12/25/2018
+## CURRENTLY IN DEVELOPMENT! 12/25/2018
+
 
 # WORKING PATCH
 - [x] Healthy (v????)
