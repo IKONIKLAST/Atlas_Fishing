@@ -27,6 +27,10 @@ Help me out and feed my ego by following me on Github.
 - Unpack/ unzip file to desired location on your system
 
 
+# Usage
+- [F5] Will start the script.
+- [F6] Will stop the script.
+
 ### Help me out by buying me a coffee. Donations aren't needed though are much appreciated ;)
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
