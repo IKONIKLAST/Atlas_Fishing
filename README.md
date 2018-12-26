@@ -1,12 +1,10 @@
 # Atlas Fishing Script.
 
-# MOTD
-## CURRENTLY IN DEVELOPMENT! 12/25/2018
-## CURRENTLY IN DEVELOPMENT! 12/25/2018
-
+# SOCIAL MEDIA
+Help me out and feed my ego by following me on Github.
 
 # WORKING PATCH
-- [x] Healthy (v????)
+- [x] Healthy (v6.52)
 
 # Compatible Resolutions
 - [x] 1920x1080
@@ -29,8 +27,16 @@
 - Unpack/ unzip file to desired location on your system
 
 
-# TRIBE SHOUT-OUTS!
-- TBD
-- TBD
-- TBD
-# Credits
+### Help me out by buying me a coffee. Donations aren't needed though are much appreciated ;)
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="NUM5LS6HQ5CCQ" />
+<input type="hidden" name="item_name" value="Atlas Fishing Help" />
+<input type="hidden" name="currency_code" value="AUD" />
+<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+## Important
+Use this project at your own risk. The authors and contributors will not be able to provide any help for breaking game rules.
