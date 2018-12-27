@@ -23,7 +23,7 @@ while ( %i% = 0 ) {
 	PixelSearch, RecastPx, RecastPy, 0, 0, A_ScreenWidth/4, A_ScreenHeight/4, 0x7FFD03, 3, Fast ;
     if (ErrorLevel = 0)
     {
-    	Sleep, 2100
+    		Sleep, 2100
         MouseClick, left
     }
 
@@ -31,7 +31,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1128, 995, 1128, 995, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, a
 		Sleep, speed
 	}
@@ -40,7 +39,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1198, 907, 1198, 907, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, z
 		Sleep, speed
 	}
@@ -49,7 +47,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1218, 1002, 1218, 1002, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, q
 		Sleep, speed
 	}
@@ -58,7 +55,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1237, 881, 1237, 881, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, w
 		Sleep, speed
 	}
@@ -67,7 +63,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1169, 910, 1169, 910, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, x
 		Sleep, speed
 	}
@@ -76,7 +71,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1213, 928, 1213, 928, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, d
 		Sleep, speed
 	}
@@ -85,7 +79,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1160, 891, 1160, 891, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, e
 		Sleep, speed
 	}
@@ -94,7 +87,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1204, 934, 1204, 934, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, s
 		Sleep, speed
 	}
@@ -103,7 +95,6 @@ while ( %i% = 0 ) {
 	PixelSearch Px, Py, 1194, 876, 1194, 876, color, 3, Fast
 	if (ErrorLevel = 0)
 	{
-    	;;WinActivate, ARK: Survival Evolved
 		Send, c
 		Sleep, speed
 	}
