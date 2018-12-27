@@ -32,7 +32,7 @@ Help me out and feed my ego by following me on Github.
 - [F6] Will stop the script.
 
 ### If this project helped you in anyway, feel free to donate. Donations aren't needed though are much appreciated ;).
-[![paypal](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=5LS6HQ5CCQ)
+[![paypal](https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&hosted_button_id=NUM5LS6HQ5CCQ)
 
 # Bugs / Issues
 If you find a bug in the bot, please search our issue tracker first. If it has not been reported, please create a new issue so that our team can assist you as quickly as possible.
