@@ -31,16 +31,13 @@ Help me out and feed my ego by following me on Github.
 - [F5] Will start the script.
 - [F6] Will stop the script.
 
-### Help me out by buying me a coffee. Donations aren't needed though are much appreciated ;)
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="NUM5LS6HQ5CCQ" />
-<input type="hidden" name="item_name" value="Atlas Fishing Help" />
-<input type="hidden" name="currency_code" value="AUD" />
-<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" />
-</form>
+### If this project helped you in anyway, feel free to donate. Donations aren't needed though are much appreciated ;).
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NUM5LS6HQ5CCQ)
 
+# Bugs / Issues
+If you find a bug in the bot, please search our issue tracker first. If it has not been reported, please create a new issue so that our team can assist you as quickly as possible.
 
-## Important
-Use this project at your own risk. The authors and contributors will not be able to provide any help for breaking game rules.
+# Disclaimer
+Atlas_Fishing is intended for academic purposes and should not be used as it violates the TOS and is unfair to the community.
+
+Use the script at your own risk.
